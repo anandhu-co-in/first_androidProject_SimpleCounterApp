@@ -5,7 +5,7 @@
 width="100"
     hspace="10" vspace="10">
 
-This is simple counter App 
+This is simple counter App <br>
 Created this to understand the basics of android development.
 <br>
 
