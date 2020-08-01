@@ -1,4 +1,4 @@
-# Simple Countet App
+# Simple Counter App
 **A simple counter to store and retrieve count value**
 
 <img src="app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" align="left"
