@@ -9,5 +9,5 @@ This is simple counter App | Created this to understand the basics of android de
 <br>
 
 ## Preview
-<img src="/screenshots/screenshot.png">
+<img src="/app/src/screenshots/screenshot.png">
 
